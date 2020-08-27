@@ -23,9 +23,15 @@ Nah, begitu juga kalau kita ingin membuat website. Kita tentukan dulu deh ini we
 
 ## Konten yang berfokus pada pembaca
 
+Google nggak bodoh. Google tau mana konten-konten yang berfokus pada pembaca dan mana konten yang niatnya cuma buat optimasi Google aja (tapi gagal). Jadi, ketika membuat konten itu ya pastikan memang tujuanmu itu adalah untuk user. Sajikan yang terbaik, semenarik mungkin, selengkap mungkin, sepanjang mungkin. Nah, nanti Google akan secara otomatis suka pada konten yang kamu buat jika kamu membuatnya dengan betul-betul memperhatikan kualitas.
+
 ## Kata kunci yang kaya
 
+Kata kunci bukan hanya pengulangan kata _mobil_ di keseluruhan isi artikel. Tapi, kata kunci yang kaya adalah penyebutan kata _mobil, Avanza, Xenia, Zebra_ dalam satu artikel. Jadi, pengulangan kata kunci dalam satu artikel itu bukan berarti satu kata yang diulang secara terus-menerus, melainkan adalah satu kata yang disebutkan berbagai sinonimnya.
+
 ## Link building
+
+Link building yang berkualitas itu perlu. Dengan bantuan link, kita bisa membantu user kita untuk ke mana arah bacaannya. Misalnya di artikel tentang _mengelola blog_, kita menautkan ke artikel yang judulnya _cara membuat blog_ untuk jaga-jaga jika pengunjung yang membaca artikel kita itu nggak tau bagaimana caranya membuat blog.
 
 ## Internet dan gaya hidup
 
