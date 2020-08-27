@@ -10,7 +10,8 @@
  "pluginsConfig": {
   "add-js-css": {
     "css": [
-      "./vendor/svg.css"
+      "./vendor/svg.css",
+      "./vendor/table.css"
     ],
     "js": [
       "./vendor/mermaid.min.js",
