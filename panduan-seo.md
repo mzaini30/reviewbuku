@@ -1,5 +1,12 @@
 # Panduan SEO
 
+| | |
+|---|---|
+| Judul | Panduan SEO |
+| Subjudul | Meningkatkan peringkat website Anda |
+| Jumlah halaman | 30 |
+| Penulis | Niagahoster | 
+
 Salah satu ebook yang sangat bagus yang dikeluarkan oleh Niagahoster. Jadi, di ebook ini dijelaskan tentang blog atau website yang "bagus" itu seperti apa. Kalau menurut Niagahoster, website yang bagus itu adalah website yang profesional. Jadi, dibuatnya itu dengan sungguh-sungguh. Lalu, dari penjelasan yang di ebook itu, ada beberapa poin penting:
 
 ## 5 detik yang menentukan
