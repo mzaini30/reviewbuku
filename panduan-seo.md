@@ -17,6 +17,10 @@ Kemudian, faktor berikutnya yang membuat pengunjung tetap stay di website kita a
 
 ## Membangun branding
 
+Google suka sama branding. Begitu yang aku baca saat ada blog yang membahas algoritma terbaru Google. Jadi, branding yang sangat sesuai, pasti akan lebih sering muncul di Google. Misalnya aja kalau kita cari barang ya di Shopee, Tokopedia, dan Bukalapak. Maka, ketiga situs itulah yang akan sering muncul di bagian atas jika kita mencari sesuatu yang ingin dibeli.
+
+Nah, begitu juga kalau kita ingin membuat website. Kita tentukan dulu deh ini website fokusnya di apa. Apakah jualan? Atau berisi kumpulan resep masakan? Nah, kalau kita sudah tau mau fokusnya ke mana, enak aja sudah ngisinya dan branding pun akan terbentuk.
+
 ## Konten yang berfokus pada pembaca
 
 ## Kata kunci yang kaya
