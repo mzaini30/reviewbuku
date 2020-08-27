@@ -1,0 +1,3 @@
+# Author blog
+
+Pemilik blog ini adalah **Zen** yang hobi baca buku (kalau pengen). Itu aja sih. Ya, semoga kamu betah ya di blog ini. Maaf deh kalau masih berantakan blognya. Hehehehe...
