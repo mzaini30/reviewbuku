@@ -1,2 +1,3 @@
+- [Belajar jualan di tengah Corona (2020)](belajar-jualan-di-tengah-corona.md)
 - [Panduan SEO](panduan-seo.md)
 - [Author blog](author-blog.md)
