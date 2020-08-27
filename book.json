@@ -1,0 +1,46 @@
+{
+ "plugins": [
+  "ga",
+  "disqus",
+  "meta",
+  "sitemap",
+  "auto-scroll-table",
+  "add-js-css"
+ ],
+ "pluginsConfig": {
+  "add-js-css": {
+    "css": [
+      "./vendor/svg.css"
+    ],
+    "js": [
+      "./vendor/mermaid.min.js",
+      "./vendor/run-mermaid.js",
+      "./vendor/auto-scroll-table.js"
+    ]
+  },
+  "ga": {
+   "token": "UA-60792127-5"
+  },
+  "disqus": {
+   "shortName": "menghafalquran"
+  },
+  "meta": {
+   "data": [
+    {
+     "name": "og:image",
+     "content": "https://reviewbuku.js.org/aset/cover.png"
+    }, {
+     "name": "twitter:image",
+     "content": "https://reviewbuku.js.org/aset/cover.png"
+    }
+   ]
+  },
+  "sitemap": {
+   "hostname": "https://reviewbuku.js.org/"
+  }
+ },
+ "lunr": {
+  "maxIndexSize": 1000000000
+ },
+ "title": "Review Buku"
+}
