@@ -1,4 +1,4 @@
-# Cara daftar Adsense prinsip move on v2
+# Cara daftar Adsense prinsip move on v2 (2019)
 
 |||
 |---|---|
