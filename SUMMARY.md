@@ -1,3 +1,4 @@
 - [Belajar jualan di tengah Corona (2020)](belajar-jualan-di-tengah-corona.md)
+- [Cara daftar Adsense prinsip move on v2 (2019)](cara-daftar-adsense.md)
 - [Panduan SEO](panduan-seo.md)
 - [Author blog](author-blog.md)
